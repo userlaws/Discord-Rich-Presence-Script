@@ -18,7 +18,7 @@ This script uses the `pypresence` library to display a custom Discord Rich Prese
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/userlaws/yourrepository.git
+    git clone https://github.com/userlaws/Discord-Rich-Presence-Script.git
     ```
 
 2. Install the required Python packages:
